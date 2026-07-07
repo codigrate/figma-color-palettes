@@ -1,0 +1,167 @@
+{
+  "Codigrate Istanbul": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#FAFDFD",
+        "$description": "Marble White"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#DBF0F1",
+        "$description": "Bosphorus Mist"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#91D1DA",
+        "$description": "Turquoise Tile"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#B7E2E3"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#EFEAD0",
+        "$description": "Old Parchment"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#91D1DA",
+        "$description": "Turquoise Tile"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#91D1DA",
+        "$description": "Turquoise Tile"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#C0AF43",
+        "$description": "Golden Horn"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#083A41",
+        "$description": "Midnight Strait"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#0E6876"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#087E8E",
+        "$description": "Deep Bosphorus"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#12ACC1",
+        "$description": "Iznik Turquoise"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#A3DDE5",
+        "$description": "Sea Glass"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#12ACC1",
+        "$description": "Iznik Turquoise"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#C8E1E5"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#96C1C7"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#D5C5E1",
+        "$description": "Lilac Haze"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#397FB7",
+        "$description": "Ferry Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#2876B4",
+        "$description": "Deep Ferry"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#30A25E",
+        "$description": "Cypress Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#219D53",
+        "$description": "Deep Cypress"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#BDA051",
+        "$description": "Brass Lamp"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#C39D37",
+        "$description": "Deep Brass"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#C15C53",
+        "$description": "Kilim Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#CA4236",
+        "$description": "Deep Kilim"
+      }
+    },
+    "Accents": {
+      "Bosphorus Teal": {
+        "$type": "color",
+        "$value": "#1190A1"
+      },
+      "Marmara Blue": {
+        "$type": "color",
+        "$value": "#0887B5"
+      },
+      "Ottoman Rose": {
+        "$type": "color",
+        "$value": "#9C6E7C"
+      },
+      "Tulip Pink": {
+        "$type": "color",
+        "$value": "#C16979"
+      },
+      "Rooftop Red": {
+        "$type": "color",
+        "$value": "#B8514D"
+      },
+      "Copper Bazaar": {
+        "$type": "color",
+        "$value": "#B87958"
+      }
+    }
+  }
+}

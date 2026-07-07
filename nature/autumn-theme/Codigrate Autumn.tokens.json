@@ -1,0 +1,169 @@
+{
+  "Codigrate Autumn": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#FCFBFA",
+        "$description": "Parchment"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#F8F4F1",
+        "$description": "Pale Birch"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#EFE6E0",
+        "$description": "Sandstone"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#F3D3C7"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#E5F4CD",
+        "$description": "Late Meadow"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#EFE6E0",
+        "$description": "Sandstone"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#EFE6E0",
+        "$description": "Sandstone"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#A9C779",
+        "$description": "Olive Grove"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#2E1B0F",
+        "$description": "Dark Walnut"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#82614C",
+        "$description": "Mocha"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#A7714C"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#DEA51D",
+        "$description": "Golden Leaf"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#F4D3BD",
+        "$description": "Apricot Haze"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#C78B63"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#DFCEC2"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#CAA48B"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#D5E3BD"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#397FB7",
+        "$description": "October Sky"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#2876B4",
+        "$description": "Deep October"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#30A25E",
+        "$description": "Fern Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#219D53",
+        "$description": "Deep Fern"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#D49A2A",
+        "$description": "Amber Harvest"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#D0921A",
+        "$description": "Deep Harvest"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#C8504A",
+        "$description": "Cranberry"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#D0352D",
+        "$description": "Deep Cranberry"
+      }
+    },
+    "Accents": {
+      "Harvest Gold": {
+        "$type": "color",
+        "$value": "#A87F25"
+      },
+      "Copper Leaf": {
+        "$type": "color",
+        "$value": "#B0633A"
+      },
+      "Maple Rust": {
+        "$type": "color",
+        "$value": "#BE553E"
+      },
+      "Acorn Brown": {
+        "$type": "color",
+        "$value": "#773918"
+      },
+      "Pine Shadow": {
+        "$type": "color",
+        "$value": "#1B591E"
+      },
+      "Evergreen": {
+        "$type": "color",
+        "$value": "#0E8113"
+      },
+      "Mallard Teal": {
+        "$type": "color",
+        "$value": "#006E83"
+      }
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "Codigrate Aurora Borealis": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#142B37",
+        "$description": "Polar Night"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#123243",
+        "$description": "Arctic Depth"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#1A3746",
+        "$description": "Glacial Shelf"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#112733"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#112631"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#043A33",
+        "$description": "Boreal Pine"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#1C3847"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#1C3847"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#049682",
+        "$description": "Emerald Aurora"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#B0B9BE",
+        "$description": "Moonlit Frost"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#85A2B3",
+        "$description": "Winter Haze"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#7AC6F5"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#A55CC8",
+        "$description": "Violet Curtain"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#1E3F53",
+        "$description": "Deep Fjord"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#427FA0"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#233C4A"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#3F6579"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#7AC6F5"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#5AA6DA",
+        "$description": "Glacier Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#3EA0E3",
+        "$description": "Deep Glacier"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#5BC093",
+        "$description": "Lichen Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#3FC88B",
+        "$description": "Deep Lichen"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#CBA45E",
+        "$description": "Midnight Sun"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#D49A3C",
+        "$description": "Deep Midnight Sun"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#D0636C",
+        "$description": "Red Aurora"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#D74E5B",
+        "$description": "Deep Red Aurora"
+      }
+    },
+    "Accents": {
+      "Teal Glow": {
+        "$type": "color",
+        "$value": "#05C0A6"
+      },
+      "Northern Green": {
+        "$type": "color",
+        "$value": "#73D379"
+      },
+      "Arctic Cyan": {
+        "$type": "color",
+        "$value": "#7ACEF5"
+      },
+      "Polar Blue": {
+        "$type": "color",
+        "$value": "#549EFF"
+      },
+      "Lavender Light": {
+        "$type": "color",
+        "$value": "#BAA5FF"
+      },
+      "Twilight Rose": {
+        "$type": "color",
+        "$value": "#BB719B"
+      },
+      "Pink Aurora": {
+        "$type": "color",
+        "$value": "#D193BB"
+      }
+    }
+  }
+}

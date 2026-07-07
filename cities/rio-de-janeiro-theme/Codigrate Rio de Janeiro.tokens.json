@@ -1,0 +1,164 @@
+{
+  "Codigrate Rio de Janeiro": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#F7FAF6",
+        "$description": "Morning Breeze"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#D9EFD2",
+        "$description": "Palm Shade"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#85B778",
+        "$description": "Jungle Canopy"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#B4DEA8"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#D0ECEF",
+        "$description": "Lagoon Mist"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#85B778",
+        "$description": "Jungle Canopy"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#85B778",
+        "$description": "Jungle Canopy"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#41AFBA",
+        "$description": "Tropical Water"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#1A510A",
+        "$description": "Forest Ink"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#2D7B18",
+        "$description": "Leaf Shadow"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#375B2E",
+        "$description": "Rainforest"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#2287D5",
+        "$description": "Guanabara Blue"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#B8E5AD",
+        "$description": "Garden Path"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#47A731",
+        "$description": "Vivid Leaf"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#C9DFC2"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#9DC192"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#ECDA61",
+        "$description": "Ipanema Sun"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#2287D5",
+        "$description": "Guanabara Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#137DD0",
+        "$description": "Deep Guanabara"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#30A25E",
+        "$description": "Carnival Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#219D53",
+        "$description": "Deep Carnival"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#E6C41A",
+        "$description": "Carnival Gold"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#E1BE0A",
+        "$description": "Deep Gold"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#D15647",
+        "$description": "Sunset Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#DB3C29",
+        "$description": "Deep Sunset"
+      }
+    },
+    "Accents": {
+      "Emerald Palm": {
+        "$type": "color",
+        "$value": "#13A166"
+      },
+      "Deep Jungle": {
+        "$type": "color",
+        "$value": "#028134"
+      },
+      "Atlantic Blue": {
+        "$type": "color",
+        "$value": "#0A80B3"
+      },
+      "Bay Blue": {
+        "$type": "color",
+        "$value": "#1065B8"
+      },
+      "Golden Samba": {
+        "$type": "color",
+        "$value": "#A3860A"
+      }
+    }
+  }
+}

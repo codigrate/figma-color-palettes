@@ -1,0 +1,166 @@
+{
+  "Codigrate Sakura": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#FEFCFC",
+        "$description": "Blossom White"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#FCF4F7"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#F8DBE6",
+        "$description": "Petal Veil"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#FFD6E0"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#DBEACB",
+        "$description": "Spring Leaf"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#F8DBE6",
+        "$description": "Petal Veil"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#F8DBE6",
+        "$description": "Petal Veil"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#AEC09B",
+        "$description": "New Stem"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#3D0013",
+        "$description": "Dark Cherry"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#94667D",
+        "$description": "Mauve Shadow"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#B54B66",
+        "$description": "Deep Sakura"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#EFA5BF",
+        "$description": "Blush Pink"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#FFC9DC",
+        "$description": "Full Bloom"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#DE849E"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#E6D1D6"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#D5A9B4"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#DFD7EF",
+        "$description": "Wisteria Mist"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#397FB7",
+        "$description": "Clear Sky"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#2876B4",
+        "$description": "Deep Sky"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#30A25E",
+        "$description": "Leaf Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#219D53",
+        "$description": "Deep Leaf"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#BC9C5C",
+        "$description": "Pollen Gold"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#C49840",
+        "$description": "Deep Pollen"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#BE5C55",
+        "$description": "Camellia Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#C64238",
+        "$description": "Deep Camellia"
+      }
+    },
+    "Accents": {
+      "Rose Garden": {
+        "$type": "color",
+        "$value": "#CB6B91"
+      },
+      "Plum Wine": {
+        "$type": "color",
+        "$value": "#98556C"
+      },
+      "Morning Fog": {
+        "$type": "color",
+        "$value": "#687788"
+      },
+      "River Stone": {
+        "$type": "color",
+        "$value": "#607FA9"
+      },
+      "Spring Rain": {
+        "$type": "color",
+        "$value": "#69A2BD"
+      },
+      "Tea Leaf": {
+        "$type": "color",
+        "$value": "#618C71"
+      }
+    }
+  }
+}

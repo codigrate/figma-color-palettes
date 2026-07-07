@@ -1,0 +1,167 @@
+{
+  "Codigrate Sequoia": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#20231C",
+        "$description": "Forest Floor"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#32382C",
+        "$description": "Evergreen Shade"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#394132"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#0E0E0E",
+        "$description": "Deep Grove"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#202C13"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#533930"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#394132"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#394132"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#6D4130",
+        "$description": "Cedar Heart"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#BABEBA",
+        "$description": "Morning Light"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#849184",
+        "$description": "Lichen Grey"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#73A621",
+        "$description": "Fresh Growth"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#788B40",
+        "$description": "Olive Canopy"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#405133",
+        "$description": "Fern Shade"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#4D6A33"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#3B4633"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#516440"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#85AB76"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#4A93C0",
+        "$description": "Creek Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#328CC4",
+        "$description": "Deep Creek"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#5CB36A",
+        "$description": "Sapling Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#42B955",
+        "$description": "Deep Sapling"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#C39A45",
+        "$description": "Sap Gold"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#C6942E",
+        "$description": "Deep Sap"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#C2564B",
+        "$description": "Wildfire Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#C73F31",
+        "$description": "Deep Wildfire"
+      }
+    },
+    "Accents": {
+      "Driftwood": {
+        "$type": "color",
+        "$value": "#6C625A"
+      },
+      "Faded Rosewood": {
+        "$type": "color",
+        "$value": "#986969"
+      },
+      "Redwood Clay": {
+        "$type": "color",
+        "$value": "#A86255"
+      },
+      "Warm Timber": {
+        "$type": "color",
+        "$value": "#A67B5B"
+      },
+      "Golden Bark": {
+        "$type": "color",
+        "$value": "#A68F59"
+      },
+      "Meadow Green": {
+        "$type": "color",
+        "$value": "#6E9F56"
+      },
+      "Jade Moss": {
+        "$type": "color",
+        "$value": "#369772"
+      }
+    }
+  }
+}

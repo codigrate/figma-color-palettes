@@ -1,0 +1,167 @@
+{
+  "Codigrate Tokyo": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#1A1F35",
+        "$description": "Tokyo Midnight"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#2A3051",
+        "$description": "Indigo District"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#323B66"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#0C0F1C",
+        "$description": "Night Alley"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#1D2445"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#542D58",
+        "$description": "Purple Alley"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#323B66"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#323B66"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#8E2795",
+        "$description": "Neon Purple"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#AEB2C3",
+        "$description": "Streetlight Silver"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#858EB7"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#7285DC",
+        "$description": "Shibuya Blue"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#714CE3",
+        "$description": "Ultraviolet"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#354172"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#4758A9"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#434B6B"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#435087"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#967AEA",
+        "$description": "Neon Violet"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#4A93D0",
+        "$description": "Signal Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#2C8BD9",
+        "$description": "Deep Signal"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#4FC093",
+        "$description": "Jade Signal"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#34C68C",
+        "$description": "Deep Jade"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#D0A24E",
+        "$description": "Amber Glow"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#D99D30",
+        "$description": "Deep Amber"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#CF5A56",
+        "$description": "Torii Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#D83E39",
+        "$description": "Deep Torii"
+      }
+    },
+    "Accents": {
+      "Metro Indigo": {
+        "$type": "color",
+        "$value": "#7B89C8"
+      },
+      "Skyline Blue": {
+        "$type": "color",
+        "$value": "#7FA0DD"
+      },
+      "Cyan Sign": {
+        "$type": "color",
+        "$value": "#5DC8D6"
+      },
+      "Matcha Neon": {
+        "$type": "color",
+        "$value": "#5CC19D"
+      },
+      "Paper Lantern": {
+        "$type": "color",
+        "$value": "#D3B690"
+      },
+      "Amber Sign": {
+        "$type": "color",
+        "$value": "#DD9B7F"
+      },
+      "Pink Neon": {
+        "$type": "color",
+        "$value": "#ECA1EB"
+      }
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "Codigrate Tallinn": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#EDF2FA",
+        "$description": "Baltic Morning"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#D0DCEF",
+        "$description": "Winter Sky"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#A9B9DA",
+        "$description": "Limestone Blue"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#B8D0F3"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#ECC2C2",
+        "$description": "Pink Facade"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#A9B9DA",
+        "$description": "Limestone Blue"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#A9B9DA",
+        "$description": "Limestone Blue"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#C17777",
+        "$description": "Terracotta Roof"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#0F244F",
+        "$description": "Midnight Baltic"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#184092",
+        "$description": "Deep Cobalt"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#3F4494"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#7179CC",
+        "$description": "Periwinkle"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#BECCEC"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#7A96D0"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#CED6EA"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#A0AFCE"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#D8BEBE"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#397FB7",
+        "$description": "Nordic Sky"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#2876B4",
+        "$description": "Deep Nordic"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#30A25E",
+        "$description": "Linden Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#219D53",
+        "$description": "Deep Linden"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#C39A4E",
+        "$description": "Amber Lantern"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#CB9532",
+        "$description": "Deep Amber"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#C0564E",
+        "$description": "Rust Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#C63E34",
+        "$description": "Deep Rust"
+      }
+    },
+    "Accents": {
+      "Weathered Brick": {
+        "$type": "color",
+        "$value": "#B1544B"
+      },
+      "Brick Lane": {
+        "$type": "color",
+        "$value": "#B6564B"
+      },
+      "Amethyst": {
+        "$type": "color",
+        "$value": "#81549C"
+      },
+      "Cobalt Spire": {
+        "$type": "color",
+        "$value": "#425EB8"
+      },
+      "Old Town Indigo": {
+        "$type": "color",
+        "$value": "#324979"
+      },
+      "Harbor Blue": {
+        "$type": "color",
+        "$value": "#377CC1"
+      },
+      "Courtyard Green": {
+        "$type": "color",
+        "$value": "#548A64"
+      },
+      "Spruce Green": {
+        "$type": "color",
+        "$value": "#1E7857"
+      }
+    }
+  }
+}

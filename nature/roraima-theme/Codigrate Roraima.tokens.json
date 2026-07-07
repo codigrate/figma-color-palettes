@@ -1,0 +1,164 @@
+{
+  "Codigrate Roraima": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#1E1A1B",
+        "$description": "Tepui Night"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#322628",
+        "$description": "Canyon Shadow"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#372C2F"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#171415",
+        "$description": "Cave Floor"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#5F2F27"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#523C2D",
+        "$description": "Earthen Ledge"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#372C2F"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#372C2F"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#6F4E35",
+        "$description": "Ochre Cliff"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#CEC1C1",
+        "$description": "Cloud Veil"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#AD8A8A",
+        "$description": "Misty Rose"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#CC654E",
+        "$description": "Sunset Mesa"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#8F78B7",
+        "$description": "Orchid Mist"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#582F29",
+        "$description": "Terracotta Shade"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#71372E"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#412D2F"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#4D3B3D"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#AF7D72"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#5292C7",
+        "$description": "River Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#358AD0",
+        "$description": "Deep River"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#4CC27B",
+        "$description": "Valley Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#32C86E",
+        "$description": "Deep Valley"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#CDA644",
+        "$description": "Sun Ochre"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#D5A427",
+        "$description": "Deep Ochre"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#CE4A44",
+        "$description": "Jasper Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#D72E27",
+        "$description": "Deep Jasper"
+      }
+    },
+    "Accents": {
+      "Amber Sand": {
+        "$type": "color",
+        "$value": "#D69568"
+      },
+      "Coral Canyon": {
+        "$type": "color",
+        "$value": "#D17458"
+      },
+      "Pink Quartz": {
+        "$type": "color",
+        "$value": "#ED8B8B"
+      },
+      "Dry Grass": {
+        "$type": "color",
+        "$value": "#DDBE6D"
+      },
+      "Savanna Gold": {
+        "$type": "color",
+        "$value": "#D1BA46"
+      },
+      "Twilight Violet": {
+        "$type": "color",
+        "$value": "#7E6AA3"
+      }
+    }
+  }
+}

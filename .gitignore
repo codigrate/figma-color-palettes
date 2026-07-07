@@ -1,0 +1,12 @@
+.DS_Store
+
+# Premium palettes — .tokens.json files are not distributed (icons stay)
+cities/madrid-theme/*.tokens.json
+cities/prague-theme/*.tokens.json
+cities/sydney-theme/*.tokens.json
+cities/vienna-theme/*.tokens.json
+nature/etna-theme/*.tokens.json
+nature/ocean-theme/*.tokens.json
+nature/reynisfjara-theme/*.tokens.json
+nature/salda-theme/*.tokens.json
+nature/spring-theme/*.tokens.json

@@ -1,0 +1,168 @@
+{
+  "Codigrate Everest": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#FDFEFF",
+        "$description": "Summit Snow"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#E4ECEF",
+        "$description": "Morning Mist"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#CADAE0"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#FFFFFF"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#D5D8E7"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#F6D4C8",
+        "$description": "Dawn Blush"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#CADAE0"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#CADAE0"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#ED7E5A",
+        "$description": "Sunrise Flame"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#0E3448",
+        "$description": "Midnight Ridge"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#567B8A",
+        "$description": "Storm Grey"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#246A89",
+        "$description": "Deep Crevasse"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#EC9C81",
+        "$description": "Alpenglow"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#B6D8E5",
+        "$description": "Ice Melt"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#7EBBD5"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#C7D8DF"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#ADC6D0"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#F6D4C8",
+        "$description": "Dawn Blush"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#397FB7",
+        "$description": "Clear Sky"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#2876B4",
+        "$description": "Deep Sky"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#30A25E",
+        "$description": "Moss Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#219D53",
+        "$description": "Deep Moss"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#C8963E",
+        "$description": "Golden Hour"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#C98F28",
+        "$description": "Deep Gold"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#C8534E",
+        "$description": "Expedition Red"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#D13731",
+        "$description": "Deep Expedition"
+      }
+    },
+    "Accents": {
+      "Granite Red": {
+        "$type": "color",
+        "$value": "#8F4446"
+      },
+      "Rhododendron": {
+        "$type": "color",
+        "$value": "#8C4069"
+      },
+      "Mountain Iris": {
+        "$type": "color",
+        "$value": "#83529B"
+      },
+      "Mountain Blue": {
+        "$type": "color",
+        "$value": "#1A6D9F"
+      },
+      "Blue Ice": {
+        "$type": "color",
+        "$value": "#005E79"
+      },
+      "Pine Ridge": {
+        "$type": "color",
+        "$value": "#2E674F"
+      },
+      "Juniper": {
+        "$type": "color",
+        "$value": "#007A47"
+      }
+    }
+  }
+}

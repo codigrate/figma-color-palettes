@@ -1,0 +1,166 @@
+{
+  "Codigrate Paris": {
+    "Surface": {
+      "Editor": {
+        "$type": "color",
+        "$value": "#281D22",
+        "$description": "Parisian Night"
+      },
+      "Window": {
+        "$type": "color",
+        "$value": "#4F303C",
+        "$description": "Cabaret Shadow"
+      },
+      "Surface": {
+        "$type": "color",
+        "$value": "#6A3C4D",
+        "$description": "Rosewood"
+      },
+      "Input": {
+        "$type": "color",
+        "$value": "#100D0E",
+        "$description": "Ink Noir"
+      },
+      "Hover": {
+        "$type": "color",
+        "$value": "#3C252D"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#532D33",
+        "$description": "Wine Cellar"
+      }
+    },
+    "Border": {
+      "Border": {
+        "$type": "color",
+        "$value": "#6A3C4D",
+        "$description": "Rosewood"
+      },
+      "Separator": {
+        "$type": "color",
+        "$value": "#6A3C4D",
+        "$description": "Rosewood"
+      },
+      "Active": {
+        "$type": "color",
+        "$value": "#994753",
+        "$description": "Bordeaux"
+      }
+    },
+    "Text": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#E6D7DD",
+        "$description": "Ivory Lace"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#C79FAE",
+        "$description": "Rose Smoke"
+      }
+    },
+    "Accent": {
+      "Primary": {
+        "$type": "color",
+        "$value": "#D18FA8"
+      },
+      "Secondary": {
+        "$type": "color",
+        "$value": "#5E7BB3",
+        "$description": "Seine Blue"
+      }
+    },
+    "Selection": {
+      "Base": {
+        "$type": "color",
+        "$value": "#5D3F49",
+        "$description": "Mauve Salon"
+      },
+      "Border": {
+        "$type": "color",
+        "$value": "#9B6479"
+      },
+      "Inactive": {
+        "$type": "color",
+        "$value": "#5B494F"
+      },
+      "Inactive Border": {
+        "$type": "color",
+        "$value": "#9B7885"
+      },
+      "Match": {
+        "$type": "color",
+        "$value": "#B9708C"
+      }
+    },
+    "Status": {
+      "Info": {
+        "$type": "color",
+        "$value": "#5A8AC0",
+        "$description": "French Blue"
+      },
+      "Info Focused": {
+        "$type": "color",
+        "$value": "#3E7FC8",
+        "$description": "Deep French Blue"
+      },
+      "Success": {
+        "$type": "color",
+        "$value": "#5CA86C",
+        "$description": "Tuileries Green"
+      },
+      "Success Focused": {
+        "$type": "color",
+        "$value": "#46A95B",
+        "$description": "Deep Tuileries"
+      },
+      "Warning": {
+        "$type": "color",
+        "$value": "#D5A24C",
+        "$description": "Eiffel Gold"
+      },
+      "Warning Focused": {
+        "$type": "color",
+        "$value": "#DE9D2E",
+        "$description": "Deep Eiffel"
+      },
+      "Error": {
+        "$type": "color",
+        "$value": "#D15A56",
+        "$description": "Rouge"
+      },
+      "Error Focused": {
+        "$type": "color",
+        "$value": "#DA3E39",
+        "$description": "Deep Rouge"
+      }
+    },
+    "Accents": {
+      "Cherry Macaron": {
+        "$type": "color",
+        "$value": "#DF7583"
+      },
+      "Montmartre Rose": {
+        "$type": "color",
+        "$value": "#D584A3"
+      },
+      "Peach Macaron": {
+        "$type": "color",
+        "$value": "#F3B7A9"
+      },
+      "Twilight Blue": {
+        "$type": "color",
+        "$value": "#87A1D3"
+      },
+      "Cafe Lights": {
+        "$type": "color",
+        "$value": "#FBBA77"
+      },
+      "Champagne Gold": {
+        "$type": "color",
+        "$value": "#F1C970"
+      }
+    }
+  }
+}
