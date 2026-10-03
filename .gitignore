@@ -7,6 +7,8 @@ nature/ocean-theme/*.tokens.json
 nature/reynisfjara-theme/*.tokens.json
 nature/salda-theme/*.tokens.json
 nature/spring-theme/*.tokens.json
+cities/dublin-theme/*.tokens.json
+cities/london-theme/*.tokens.json
 cities/madrid-theme/*.tokens.json
 cities/prague-theme/*.tokens.json
 cities/sydney-theme/*.tokens.json
