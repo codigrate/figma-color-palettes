@@ -326,7 +326,7 @@ Etna
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=etna)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=etna)
 
 ## Description
 
@@ -757,7 +757,7 @@ Ocean
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=ocean)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=ocean)
 
 ## Description
 
@@ -904,7 +904,7 @@ Reynisfjara
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=reynisfjara)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=reynisfjara)
 
 ## Description
 
@@ -1337,7 +1337,7 @@ Salda
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=salda)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=salda)
 
 ## Description
 
@@ -1627,7 +1627,7 @@ Spring
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=spring)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=spring)
 
 ## Description
 
@@ -2199,7 +2199,7 @@ Madrid
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=madrid)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=madrid)
 
 ## Description
 
@@ -2632,7 +2632,7 @@ Prague
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=prague)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=prague)
 
 ## Description
 
@@ -2922,7 +2922,7 @@ Sydney
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=sydney)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=sydney)
 
 ## Description
 
@@ -3355,7 +3355,7 @@ Vienna
 (Premium)
 </h1>
 
-[![Premium – buy on codigrate.com](https://img.shields.io/badge/Premium-Buy%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=vienna)
+[![Premium – get on codigrate.com](https://img.shields.io/badge/Premium-Get%20on%20codigrate.com-00B4FF?style=for-the-badge)](https://codigrate.com/palette?product=vienna)
 
 ## Description
 
